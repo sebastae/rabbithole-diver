@@ -9,5 +9,5 @@ Run script using the command `python3 scraper.py [url] [options]`
 
 `-v` : Print all logged statements
 
-`--print` [word] : Print all logged statements using the [word] status
+`--print [word]` : Print all logged statements using the [word] status
 e.g `--print extract`
